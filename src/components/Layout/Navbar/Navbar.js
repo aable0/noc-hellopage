@@ -46,7 +46,7 @@ export const Navbar = (data) => {
                 <Navbar_links href="/Kurumsal" name="Kurumsal"/> 
             </div>
             <button 
-            onClick={() => window.open("https://portal.nonofficialcompany.com", "_self")} className={`h-16 text-center px-5 py-3 border-b-4 rounded-full text-2xl font-light ${value ? ` ${nlc}` : `text-[#7a94f3] border-[#7a94f3] hover:text-[#5365a6] hover:border-[#5365a6] hover:border-b-8 `}`}>
+            onClick={() => window.open("https://noc-portal.able0.space", "_self")} className={`h-16 text-center px-5 py-3 border-b-4 rounded-full text-2xl font-light ${value ? ` ${nlc}` : `text-[#7a94f3] border-[#7a94f3] hover:text-[#5365a6] hover:border-[#5365a6] hover:border-b-8 `}`}>
                 Portala gir
             </button>
         </div>
@@ -69,7 +69,7 @@ export const Navbar = (data) => {
                     <Navbar_links href="/Paketler" name="Paketler"/>
                     <Navbar_links href="/Ekip" name="Ekip üyeleri"/>
                     <Navbar_links href="/Kurumsal" name="Kurumsal"/> 
-                    <Navbar_links href="https://portal.nonofficialcompany.com" name="Portal"/>
+                    <Navbar_links href="https://noc-portal.able0.space" name="Portal"/>
                 </div>
             </div>
             <div className={` ${Navbarstate ? "bg-[#2e4490] opacity-70" : "items-center"} w-5/12 pr-7 py-3 flex  justify-end `}>

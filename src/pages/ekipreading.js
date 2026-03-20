@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { Layout } from "../components/Layout/Layout";
+import { Layout } from "../components/layout/layout";
 import { Ekipdata } from "../libs/Ekipdata";
 export const Ekipreading = () => {
     const { user } = useParams()

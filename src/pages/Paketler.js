@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Layout } from "../components/Layout/Layout";
+import { Layout } from "../components/layout/layout";
 import { Paket_data } from "../libs/paketdata";
 
 export const  Paketler = () => {

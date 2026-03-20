@@ -1,7 +1,7 @@
 import { About } from "../components/items/About";
 import { Card } from "../components/items/card";
 import { Hero } from "../components/items/Hero";
-import { Layout } from "../components/Layout/Layout";
+import { Layout } from "../components/layout/layout";
 import { IdContext } from '../contexts/IdContext';
 import { useContext } from "react";
 export const Mainpage = () => {

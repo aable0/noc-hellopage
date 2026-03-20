@@ -1,4 +1,4 @@
-import { Layout } from "../components/Layout/Layout";
+import { Layout } from "../components/layout/layout";
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { Kurumsaldata } from "../libs/kurumsaldata";

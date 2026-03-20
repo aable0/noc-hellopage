@@ -15,7 +15,7 @@ export const SliderData = [
         buttontext:"Ders",
         buttoncss:"lg:w-96 w-40 text-center font-medium text-[#f79d44] border-[#f79d44] hover:text-white hover:bg-[#f79d44] px-5 py-3 border-2 rounded-full lg:text-2xl text-xl font-light",
         background:"bg-imageid2",
-        href:"https://portal.nonofficialcompany.com/home#ders",
+        href:"https://noc-portal.able0.space/home#ders",
         slidercss: "w-full lg:w-4/6 flex flex-col items-center space-y-4 text-2xl lg:text-4xl lg:pr-10"
     },
     {
@@ -24,7 +24,7 @@ export const SliderData = [
         buttontext:"Pomodoro",
         buttoncss:"lg:w-96 w-40 text-center text-white border-white border-2 font-medium hover:text-[#3a3a3c] hover:bg-white px-5 py-3 border-2 rounded-full lg:text-2xl text-xl font-light",
         background:"bg-imageid3",
-        href:"https://portal.nonofficialcompany.com/home#pomodoro",
+        href:"https://noc-portal.able0.space/home#pomodoro",
         slidercss: "w-full lg:w-4/6 flex flex-col items-end space-y-4 text-2xl lg:text-4xl "
     },
 ]
